@@ -1,0 +1,17 @@
+body {background-color:black;}
+
+.conteneur{display:flex;
+            color:white;
+            background-color: #3a3b3c;
+            width:600px;
+            margin:auto;
+            border-radius: 10px 10px 10px 10px;
+            flex-direction: column;
+            margin-left: 2em; }
+
+#retour{background-color: red;
+        position: absolute;
+        margin-left: 2.6em;}
+
+
+

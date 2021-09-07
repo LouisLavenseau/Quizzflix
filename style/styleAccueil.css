@@ -1,0 +1,47 @@
+body
+{
+    background-color:black ;
+    color:silver;
+}
+
+#grandConteneur
+{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    padding-left:13px;
+    justify-content:center;
+}
+
+#conteneur
+{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content : flex-start;    
+}
+
+.image{
+    height:180px;
+    width : 319.86px;
+    margin:5px;
+}
+
+.image:hover
+{
+    -webkit-transform:scale(1.04); /* Safari and Chrome */
+    -moz-transform:scale(1.04); /* Firefox */
+    -ms-transform:scale(1.04); /* IE 9 */
+    -o-transform:scale(1.04); /* Opera */
+     transform:scale(1.04);
+}
+
+.serie
+{
+    display:flex;
+    flex-direction:row;
+}
+
+.carousel
+{
+    width: 1300px;
+}

@@ -1,0 +1,38 @@
+body
+{
+    background-color:black!important;
+    color:silver!important;
+}
+label{
+    font-weight:normal!important;
+}
+
+#conteneur
+{
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    margin:auto;
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    border-radius : 10px;  
+    width : 800px;
+}
+
+#choix
+{
+    display: flex;
+    flex-direction : row;
+}
+
+#bouton
+{
+    text-align:center;
+}
+
+.image
+{
+    height:400px;
+    width:710.8px;
+    border-radius:10px;
+}
+

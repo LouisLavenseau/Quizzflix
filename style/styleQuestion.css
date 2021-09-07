@@ -1,0 +1,88 @@
+body
+{
+    background-color:black !important;
+    color:silver!important;
+}
+label{
+    font-weight:normal!important;
+}
+#question
+{
+    color: #dc1a28!important;
+    font-weight:bold!important;
+}
+
+#grandConteneur
+{
+    height:550px;
+    display:flex;
+    flex-direction : column;
+    justify-content : center;
+}
+
+#fond
+{
+    display: flex;
+    flex-direction : column;
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    border-radius : 10px;  
+    width : 800px;
+    height : 450px;
+    justify-content:center;
+    margin:auto;
+}
+
+#conteneur
+{
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    margin:auto;
+}
+
+#bouton
+{
+    text-align:center;
+}
+h5
+{
+    text-align:center;
+}   
+#bravo
+{
+    color:#04B431;
+    font-weight:bold;
+}
+#dommage
+{
+    color:goldenrod;
+}
+.best
+{
+    color:goldenrod;
+}
+.perfection
+{
+    color:#04B431;
+    font-weight:bold;
+}
+.bienJoue
+{
+    color:#04B431;
+    font-weight:bold;
+}
+.pasMal
+{
+    color : palegreen;
+    font-weight:bold;
+}
+.bof
+{
+    color:goldenrod;
+    font-weight:bold;
+}
+.nul
+{
+    color:orangered;
+    font-weight:bold;
+}

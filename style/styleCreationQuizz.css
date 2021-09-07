@@ -1,0 +1,64 @@
+body {
+    background-color:black;
+    color:silver;
+}
+
+#grandConteneur{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+#grosConteneur{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.conteneur{
+    display:flex;
+    color:silver;
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    width:800px;
+    margin:auto;
+    padding-left:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius: 10px 10px 10px 10px;
+    flex-direction: column;
+    margin-left: 2em; 
+}
+            
+#nomEtUpload{display:flex;}
+
+.fichier{
+    position:relative;
+    margin-left:27em;
+}
+
+.text{color:black;}
+
+#descrQuizz
+{
+    width:700px;
+}
+
+#valider{
+    background-color: #dc1a28;
+	margin-left: 80px;
+	border-radius:5px;
+	height:40px;
+	width : 100px;
+	border:0px;
+	color:white;
+    font-weight: bold;
+}
+
+
+#upload {
+    position: relative;
+    margin-left: 10em;
+}
+
+
+

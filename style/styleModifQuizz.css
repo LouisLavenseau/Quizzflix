@@ -1,0 +1,46 @@
+body {
+    background-color:black;
+    color:silver;
+}
+
+#conteneur{
+    display:flex;
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    width:800px;
+    margin:auto;
+    border-radius: 10px 10px 10px 10px;
+    flex-direction: column;
+    margin-left: 2em; 
+    padding-left : 20px;
+    margin-bottom:20px;
+}
+
+input{
+    color:black;
+}
+
+#valider{
+    background-color: #dc1a28;
+    border-radius:5px;
+    height:40px;
+    border:0px;
+    color:white;
+    font-weight: bold;
+    margin-left: 2.6em;
+}
+
+#image{
+    width:200px;
+    height:100px;
+}
+
+a
+{
+    color:#848484;
+}
+
+a:hover{
+    color:white;
+    text-decoration : none;
+}
+

@@ -1,0 +1,23 @@
+body
+{
+    background-color:black !important;
+    color:silver;
+}
+
+#conteneur
+{
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    margin:auto;   
+    justify-content : space-around ;
+    height : 1000px;
+}
+
+.elmt
+{
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    border-radius : 10px;  
+    width : 800px;
+    text-align : center;
+}

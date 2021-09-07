@@ -1,0 +1,97 @@
+body {
+	background-color:black;
+	color:silver;
+}
+
+#grandConteneur {
+	display:flex;
+	flex-direction : column;
+	align-items : flex-start;
+	padding-left:100px;
+}
+
+.conteneur {
+	display : flex; 
+	flex-direction: column;
+	width:500px;
+	position:relative;
+	left:3em;
+}
+.ligne{
+	height:80px;
+	border-radius:5px;
+	display:flex;
+	align-items : center;
+}
+.ligne:hover{
+	width:502px;
+	height:82px;
+}
+
+			
+.bouton {color:black;}
+
+.nomQuizz{
+	color:silver;
+}
+.nomQuizz:hover{
+	color:white;
+	text-decoration:none;
+}
+	   
+.serie {
+	align-self:center;
+	margin-right:auto;
+}
+
+.ligne {
+	background-color:rgba(34,34,34,1);
+	display:flex;
+}
+.liste:hover{background-color:rgba(245,245,245,1);}
+
+
+
+	   
+	   
+div {display : check;}
+			  
+			  
+.check {align-self:center;}
+/*span:active{opacity:0.5;}*/
+.points{color:gray;}
+.points:hover{color:silver;}
+#plus{color:gray;}
+
+
+ul{
+	margin-left:auto;
+	align-self:center;
+	color:black;
+}
+.dropdown{
+	margin-left:auto;
+	align-self:center;
+	color:white;
+}
+
+.dropdown-menu {padding-left: 0.5em;}
+.dropdown-menu {margin:-2.5em 0 0 1.5em;}
+.addQuestionnaire {margin:0 0 0 10.8em;}
+
+#valider{
+	background-color: #dc1a28;
+	position: relative;
+	margin-left: 3.5em;
+	border-radius:5px;
+	height:40px;
+	width : 100px;
+	border:0px;
+	color:white;
+	font-weight: bold;
+}
+
+
+#boutton{display:flex;}
+
+#modif {display:flex;}

@@ -1,0 +1,42 @@
+body {
+        background-color:black;
+        color:silver;
+}
+
+#conteneur{
+        display:flex;
+        background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+        width:600px;
+        margin:auto;
+        border-radius: 10px 10px 10px 10px;
+        flex-direction: column;
+        padding-left: 20px; 
+        padding-right: 20px; 
+}
+
+
+#grandConteneur
+{
+    min-height:550px;
+    display:flex;
+    flex-direction : column;
+    justify-content : center;
+}
+
+.text{
+        width:560px;
+        color:black;
+}
+
+#valider{
+        background-color: #dc1a28;
+            border-radius:5px;
+            height:40px;
+            width : 100px;
+            border:0px;
+            color:white;
+        font-weight: bold;
+    }
+
+
+

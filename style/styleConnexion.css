@@ -1,0 +1,34 @@
+body
+{
+    background-color:black !important;
+    color:silver;
+}
+
+#grandConteneur
+{
+    height:550px;
+    display:flex;
+    flex-direction : column;    
+}
+
+#conteneur
+{
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    margin:auto;
+    background-image: linear-gradient(to top, rgba(34,34,34,0.4), rgba(34,34,34,0.8));
+    border-radius : 10px;  
+    width : 800px;
+    height : 350px;
+    margin-top:50px;
+}
+
+#bouton
+{
+    text-align:center;
+}
+label
+{
+    font-weight:normal;
+}
