@@ -1,8 +1,10 @@
 # Quizzflix
 Netflix series quizzes website
-<img src="https://user-images.githubusercontent.com/58434964/132577542-95e02595-fd74-4100-b02e-8d4271041ad2.png"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132577492-c58ebbae-2e27-42d0-9a8b-f30280229e12.png"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132577497-d9c64f39-48f1-4363-bffb-46213a4fe1b2.png"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132577504-033da64d-ff74-4a71-b23a-644b9198ad32.png"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132577512-7fdcc17a-caf9-49b0-a2fa-b7febd0baeff.png"  width="320" height="700" />
-<img src="https://user-images.githubusercontent.com/58434964/132577516-0e7cd0fd-fb4c-46b5-8454-ef6d69b8afa8.png"  width="320" height="700" />
+Below some pages of the project :
+
+<img src="https://user-images.githubusercontent.com/58434964/132579906-5d4b8b33-07ba-4c93-aa12-c2fe6d3ba078.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579904-2381421d-3d6c-4f8c-abb7-7ea40d4f1d4f.png"  width="600" height="350" />
+<img src="https://user-images.githubusercontent.com/58434964/132580796-de00a321-53ec-460e-ab4d-e1dd345e600c.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579905-2d2cbf93-90d4-4d46-aea6-2ef7bba3134c.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579897-694792ab-d46c-4c2a-869e-da8dd9bba7e9.png"  width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/58434964/132579902-a5b3043f-938c-4373-87ab-d0d4f205c8d0.png"  width="600" height="540" />
