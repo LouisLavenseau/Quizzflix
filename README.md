@@ -1,5 +1,5 @@
 # Quizzflix
-Netflix series quizzes website
+Netflix series quizzes website.
 Below some pages of the project :
 
 <img src="https://user-images.githubusercontent.com/58434964/132579906-5d4b8b33-07ba-4c93-aa12-c2fe6d3ba078.png"  width="600" height="300" />
